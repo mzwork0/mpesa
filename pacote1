@@ -28,8 +28,8 @@ public class Main {
 
         // Set parameters used for the API
 		context.addParameter("input_TransactionReference","Netflix - Basico");
-		context.addParameter("input_CustomerMSISDN","258842478374");
-		context.addParameter("input_Amount","10");
+		context.addParameter("numeroCliente","");
+		context.addParameter("valor","10");
 		context.addParameter("input_ThirdPartyReference","111PA2D");
 		context.addParameter("input_ServiceProviderCode","171717");
 
